@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://boroswom.github.io/sitemap.html
+Sitemap: https://boroswom.github.io/fa/sitemap.html
+Sitemap: https://boroswom.github.io/fi/sitemap.html
+Sitemap: https://boroswom.github.io/fu/sitemap.html
